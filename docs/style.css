@@ -48,13 +48,6 @@ a:hover{
     margin: 1.5rem 0;
 }
 
-hr {
-    border: none;
-    height: 0.1rem;
-    background-color: #A2AF9B;
-    margin: 1rem 0;
-}
-
 .color {
     text-decoration: none;
     color: #FAF9EE;
@@ -101,4 +94,5 @@ footer {
     text-align: center;
     color: #FAF9EE;
     padding: 3rem;
+
 }
